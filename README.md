@@ -8,4 +8,4 @@
 ![Dashboard][(./screenshots/dashboard.png)](https://github.com/avni672005/employee-management-system/blob/main/EmployeeDashboard.png?raw=true)
 
 ### AdminDashboard.png
-[Dashboard][(./screenshots/dashboard.png)](https://github.com/avni672005/employee-management-system/blob/main/AdminDashboard.png?raw=true)
+![Dashboard][(./screenshots/dashboard.png)](https://github.com/avni672005/employee-management-system/blob/main/AdminDashboard.png?raw=true)
